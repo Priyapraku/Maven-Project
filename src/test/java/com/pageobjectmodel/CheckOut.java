@@ -21,6 +21,7 @@ public class CheckOut extends BaseClass implements CheckOutInterfaceElements {
 	public void checkOutPage() {
 		clickOnElement(cart);
 		clickOnElement(placeorder);
+		//priya
 		
 	}
 

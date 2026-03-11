@@ -29,7 +29,7 @@ public class AddToCart extends BaseClass implements AddToCartInterfaceElements {
 		clickOnElement(addToCart);
 		explicitwait(null , 10, "alert");
 		//alertAcceptAndDismiss("accept");
-		//Thread.sleep(4000);
+		//Thread.sleep(4000)
 		alertAccept();
 		
 	}
